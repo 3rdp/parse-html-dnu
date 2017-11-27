@@ -1,0 +1,28 @@
+{
+  "name": "parse-dnu-magistr-list",
+  "version": "1.0.0",
+  "description": "Parse html table to array of objects",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3rdp/parse-html-dnu.git"
+  },
+  "keywords": [
+    "parse",
+    "html",
+    "table"
+  ],
+  "author": "3rdp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3rdp/parse-html-dnu/issues"
+  },
+  "homepage": "https://github.com/3rdp/parse-html-dnu#readme"
+}
